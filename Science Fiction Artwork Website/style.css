@@ -1,0 +1,16 @@
+.nav-section {
+    background-color: #000;
+    color: #fff;
+    padding: 1%;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-content {
+    margin-right: 45px;
+}

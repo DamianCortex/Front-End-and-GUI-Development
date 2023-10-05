@@ -1,9 +1,14 @@
 .nav-section {
     background-color: #000;
     color: #fff;
-    padding: 1%;
     font-weight: bold;
     font-size: x-large;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: #fff;
 }
 
 .nav-list {
@@ -13,4 +18,37 @@
 
 .nav-content {
     margin-right: 45px;
+}
+
+body {
+    background-color: #000;
+}
+
+p {
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+}
+
+h2 {
+    color: #fff;
+}
+
+form {
+    background-color: #000;
+    color: #fff;
+}
+
+figcaption {
+    color: #fff;
+}
+
+article {
+    color: #fff;
+}
+
+footer {
+    color: #fff;
 }

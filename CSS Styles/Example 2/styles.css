@@ -1,18 +1,18 @@
 h1 {
-    background-color: #CCF381;
+    background-color: #1a1a1d;
     text-align: center;
-    color: #4831D4;
+    color: #6f2232;
 }
 
 body {
-    background-color: #4831D4;
-    color: #CCF381;
+    background-color: #1a1a1d;
+    color: #950740;
 
 }
 
 .nav-section {
-    background-color: #CCF381;
-    color: #4831D4;
+    background-color: #434350;
+    color: #c3073f;
     font-weight: bold;
     font-size: x-large;
     text-decoration: none;
@@ -20,7 +20,7 @@ body {
 }
 
 a:visited {
-    color: #4831D4;
+    color: #282828;
 }
 
 .nav-list {

@@ -11,7 +11,7 @@ body {
 }
 
 .nav-section {
-    background-color: #434350;
+    background-color: #6F2232;
     color: #c3073f;
     font-weight: bold;
     font-size: x-large;
@@ -19,15 +19,23 @@ body {
 
 }
 
-a:visited {
-    color: #282828;
+.container {
+    display: flex;
+    align-items: center;
 }
 
-.nav-list {
-    list-style: none;
-    display: grid;
+.text {
+    flex: 1;
+    padding: 20px;
 }
 
-.nav-content {
-    margin-right: 50px;
+.image {
+    flex: 1;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
